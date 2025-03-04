@@ -26,7 +26,7 @@ export function Hero() {
           </p>
           <div className="bg-gradient-to-br from-white/20 to-white/5 backdrop-blur-md p-8 rounded-3xl max-w-2xl mx-auto border border-white/10">
             <p className="text-white text-lg">
-              Türkiye'nin yeşil enerji dönüşümünde aktif rol alın. Rüzgardan güneşe, hidroelektrikten biyoenerjiye, 
+              Türkiye&apos;nin yeşil enerji dönüşümünde aktif rol alın. Rüzgardan güneşe, hidroelektrikten biyoenerjiye, 
               geleceğin enerji sektöründe yerinizi alın.
             </p>
           </div>
